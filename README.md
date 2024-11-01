@@ -1,3 +1,6 @@
+https://app.powerbi.com/groups/me/reports/02a2bc6a-0865-4425-be2e-af92a6e8d640/e0fcde84bc3df1136ab6?experience=power-bi
+
+
 Pizza Sales Analysis Dashboard:
 This Power BI project provides a comprehensive analysis of pizza sales data, offering insights into revenue, customer ordering patterns, and product popularity. The dashboard enables users to explore metrics like total revenue, average order value, sales trends by time, and top-performing pizzas.
 
